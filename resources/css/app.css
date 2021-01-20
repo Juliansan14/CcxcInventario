@@ -1,0 +1,25 @@
+.br-centersmall{
+    border-radius: 16px;
+    background:rgb(126, 219, 228);
+    padding: 12px 20px;
+    position: absolute;
+      right: 35%;
+      top: 30%;
+      left: 35%;
+    }
+    .bd-login{
+        background:rgb(203, 239, 242);
+    }
+    .tt-login{
+        text-align: center;
+    }
+    .br-centerbig{
+    border-radius: 16px;
+    background:rgb(126, 219, 228);
+    padding: 12px 20px;
+    position: absolute;
+        right: 10%;
+        top: 02%;
+        left: 10%;
+    }
+    
